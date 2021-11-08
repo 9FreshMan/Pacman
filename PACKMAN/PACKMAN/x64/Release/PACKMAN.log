@@ -1,0 +1,55 @@
+﻿  PACKMAN.cpp
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(50,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(64,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(73,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(82,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(104,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(114,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(123,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(132,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(154,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(164,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(173,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(182,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(200,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(214,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(223,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(232,14): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(278,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(292,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(301,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(310,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(332,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(342,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(351,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(360,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(382,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(392,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(401,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(410,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(428,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(442,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(451,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(460,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(507,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(521,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(530,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(539,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(561,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(571,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(580,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(589,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(611,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(621,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(630,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(639,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(657,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(671,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(680,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(689,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MUSK\Desktop\PACKMAN\PACKMAN\PACKMAN.cpp(1980,32): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  PACKMAN.vcxproj -> C:\Users\MUSK\Desktop\PACKMAN\x64\Release\PACKMAN.exe
